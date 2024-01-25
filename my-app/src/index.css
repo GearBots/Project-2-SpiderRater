@@ -11,3 +11,45 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbar{
+  float: center;
+  display: block;
+  color: blue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.Spider-Liker{
+  float: center;
+  color: red;
+  text-align: center;
+  font-size: xx-large;
+}
+.title{
+  float: center;
+  color: red;
+  text-align: center;
+  font-size: xx-large;
+}
+.homeImg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.buttonContainer{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.movieGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 20px; 
+  justify-content: center;
+}
+.addedMovies {
+  float: center;
+  text-align: center;
+  
+}
