@@ -1,87 +1,77 @@
 {
-  "movies":[
-      {
-          "id":1,
-          "name":"Spider-Man",
-          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS45-dg8zeYfTScAJ6DvLyPOaYGIboQ6kDHjw&usqp=CAU",
-          "critic": "90",
-          "audience_score": "67",
-          "review": "Not only does Spider-Man provide a good dose of web-swinging fun, it also has a heart, thanks to the combined charms of director Sam Raimi and star Tobey Maguire."
-          
-      },
-      {
-          "id":2,
-          "name":"Spider-Man 2",
-          "image": "https://resizing.flixster.com/jgOdy-2VT67-A3SijMlJUC_uVbA=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34442_p_v10_aq.jpg",
-          "critic": "93",
-          "audience_score": "82",
-          "review": "A sequel that not only outstrips its predecessor but has a perversity and quick-wittedness that hardly seem to belong in a comic-book movie"
-          
-      },
-      {
-          "id":3,
-          "name":"Spider-Man 3",
-          "image": "https://resizing.flixster.com/BtYcCLpD6319Mya6Y2pJwV14SNY=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159366_p_v10_at.jpg" ,
-          "critic": "63",
-          "audience_score": "51",
-          "review": "A sequel that not only outstrips its predecessor but has a perversity and quick-wittedness that hardly seem to belong in a comic-book movie"
-
-      },
-      {
-          "id":4,
-          "name":"The Amazing Spider-Man",
-          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7qx2_HLTHkNOCWmZ8htaOeadK5D93Zl3vafd-fZLfG-92FNah",
-          "critic": "71",
-          "audience_score": "77",
-          "review": "If you stop mining it for its self-proclaimed amazing qualities, and overlook its slow patches, The Amazing Spider-man' is watchable enough, even though it did not make my jaw drop anywhere"
-      },
-      {
-          "id":5 ,
-          "name": "The Amazing Spider-Man 2",
-          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsEtqIyTnTS5HoHzmpLNfAoPgV5SVBuuSIinwwi0Qaty9ItOof",
-          "critic": "51",
-          "audience_score": "64",
-          "review": "While the cast is outstanding and the special effects are top-notch, the latest installment of the Spidey saga suffers from an unfocused narrative and an overabundance of characters"
-      },
-      {
-          "id":6 ,
-          "name": "Spider-Man: Homecoming",
-          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaE-xrBCrgQ_0OUuQqNgVzBFapq4yghVugMhomcXp2AKgWy_3z",
-          "critic": "92",
-          "audience_score": "87",
-          "review": "Spider-Man: Homecoming does whatever a second reboot can, delivering a colorful, fun adventure that fits snugly in the sprawling MCU without getting bogged down in franchise-building"
-      },
-      {
-          "id":7 ,
-          "name": "Spider-Man: Far From Home",
-          "image": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/216033/spider-man-far-from-home-SFFH_OnLine_1SHT_6072x9000_TSR_04_rgb.jpg",
-          "critic": "90",
-          "audience_score": "95",
-          "review": "A breezily unpredictable blend of teen romance and superhero action, Spider-Man: Far from Home stylishly sets the stage for the next era of the MCU"
-      },
-      {
-          "id":8 ,
-          "name": "Spider-Man: No Way Home",
-          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdFt6Z6fHIWhxo--z3aqwbDZ9Hu5yf1ZvI_QOt4Fn0DBNA6O6R",
-          "critic": "93",
-          "audience_score": "98",
-          "review": "A bigger, bolder Spider-Man sequel, No Way Home expands the franchise's scope and stakes without losing sight of its humor and heart"
-      },
-      {
-          "id":9 ,
-          "name": "Spider-Man: Into The Spider-Verse",
-          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT19VeiWNvyupZL9vJGP37bPwaOu25XRDOgBzzkM3A7_wQXg22k",
-          "critic": "97",
-          "audience_score": "94",
-          "review": "Spider-Man: Into the Spider-Verse matches bold storytelling with striking animation for a purely enjoyable adventure with heart, humor, and plenty of superhero action."
-      },
-      {
-          "id":10 ,
-          "name": "Spider-Man: Across The Spider-Verse",
-          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREBECDdIq1ZSCfssiUrDnr1pw0LQsvnJyp-x3CBR4UwmTy8Nee",
-          "critic": "95",
-          "audience_score": "94",
-          "review": "Just as visually dazzling and action-packed as its predecessor, Spider-Man: Across the Spider-Verse thrills from start to cliffhanger conclusion.f"
-      }
+  "savedList": [],
+  "movies": [
+    {
+      "id": 1,
+      "name": "Spider-Man",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS45-dg8zeYfTScAJ6DvLyPOaYGIboQ6kDHjw&usqp=CAU",
+      "critic": "90",
+      "audience_score": "67",
+      "review": "Not only does Spider-Man provide a good dose of web-swinging fun, it also has a heart, thanks to the combined charms of director Sam Raimi and star Tobey Maguire."
+    },
+    {
+      "id": 2,
+      "name": "Spider-Man 2",
+      "image": "https://resizing.flixster.com/jgOdy-2VT67-A3SijMlJUC_uVbA=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34442_p_v10_aq.jpg",
+      "critic": "93",
+      "audience_score": "82",
+      "review": "A sequel that not only outstrips its predecessor but has a perversity and quick-wittedness that hardly seem to belong in a comic-book movie"
+    },
+    {
+      "id": 3,
+      "name": "Spider-Man 3",
+      "image": "https://resizing.flixster.com/BtYcCLpD6319Mya6Y2pJwV14SNY=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159366_p_v10_at.jpg",
+      "critic": "63",
+      "audience_score": "51",
+      "review": "A sequel that not only outstrips its predecessor but has a perversity and quick-wittedness that hardly seem to belong in a comic-book movie"
+    },
+    {
+      "id": 4,
+      "name": "The Amazing Spider-Man",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7qx2_HLTHkNOCWmZ8htaOeadK5D93Zl3vafd-fZLfG-92FNah",
+      "critic": "71",
+      "audience_score": "77",
+      "review": "If you stop mining it for its self-proclaimed amazing qualities, and overlook its slow patches, The Amazing Spider-man' is watchable enough, even though it did not make my jaw drop anywhere"
+    },
+    {
+      "id": 5,
+      "name": "The Amazing Spider-Man 2",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsEtqIyTnTS5HoHzmpLNfAoPgV5SVBuuSIinwwi0Qaty9ItOof",
+      "critic": "51",
+      "audience_score": "64",
+      "review": "While the cast is outstanding and the special effects are top-notch, the latest installment of the Spidey saga suffers from an unfocused narrative and an overabundance of characters"
+    },
+    {
+      "id": 6,
+      "name": "Spider-Man: Homecoming",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaE-xrBCrgQ_0OUuQqNgVzBFapq4yghVugMhomcXp2AKgWy_3z",
+      "critic": "92",
+      "audience_score": "87",
+      "review": "Spider-Man: Homecoming does whatever a second reboot can, delivering a colorful, fun adventure that fits snugly in the sprawling MCU without getting bogged down in franchise-building"
+    },
+    {
+      "id": 7,
+      "name": "Spider-Man: Far From Home",
+      "image": "https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster--dark-mode.png/0/images/masterrepository/Fandango/216033/spider-man-far-from-home-SFFH_OnLine_1SHT_6072x9000_TSR_04_rgb.jpg",
+      "critic": "90",
+      "audience_score": "95",
+      "review": "A breezily unpredictable blend of teen romance and superhero action, Spider-Man: Far from Home stylishly sets the stage for the next era of the MCU"
+    },
+    {
+      "id": 9,
+      "name": "Spider-Man: Into The Spider-Verse",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT19VeiWNvyupZL9vJGP37bPwaOu25XRDOgBzzkM3A7_wQXg22k",
+      "critic": "97",
+      "audience_score": "94",
+      "review": "Spider-Man: Into the Spider-Verse matches bold storytelling with striking animation for a purely enjoyable adventure with heart, humor, and plenty of superhero action."
+    },
+    {
+      "id": 10,
+      "name": "Spider-Man: Across The Spider-Verse",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREBECDdIq1ZSCfssiUrDnr1pw0LQsvnJyp-x3CBR4UwmTy8Nee",
+      "critic": "95",
+      "audience_score": "94",
+      "review": "Just as visually dazzling and action-packed as its predecessor, Spider-Man: Across the Spider-Verse thrills from start to cliffhanger conclusion.f"
+    }
   ]
 }

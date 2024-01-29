@@ -1,11 +1,8 @@
 import {useState, useEffect} from 'react';
 
-function MoveList(){
+function MovieList(){
     const [films, setFilms] = useState([])
     
-
-   
-
     useEffect(()=>{
         fetch('http://localhost:4000/movies')
         .then(res=>res.json())
@@ -31,4 +28,4 @@ function MoveList(){
     );
 };
 
-export default MoveList;
+export default MovieList;
